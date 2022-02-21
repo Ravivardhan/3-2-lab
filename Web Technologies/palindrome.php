@@ -22,6 +22,7 @@
 
     }
     $number=4003;
+    echo $number;
     if(palindrome($number))
     {
         echo "Palindrome number";
